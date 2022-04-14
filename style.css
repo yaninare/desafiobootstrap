@@ -1,0 +1,27 @@
+.navbar-light{
+    background-color: #b69c8b;
+}
+
+.bigcard{
+    background-color: #c4b596;
+}
+
+.article{
+    background-color: #7f624e;
+}
+
+.card{
+    background-color: #7f624e;
+}
+
+.btn-primary{
+    background-color: #312c26;
+}
+
+.btn-primary:hover{
+    background-color: #98885b;
+}
+
+.sectioncolor{
+    background-color: #98885b;
+}
